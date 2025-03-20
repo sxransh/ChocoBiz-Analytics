@@ -1,5 +1,5 @@
 # ChocoBiz-Analytics
-This is my first ever power BI project and with my current hands-on knowledge, I did my best.
+This is my first ever power BI project and with my current hands-on knowledge, I did my best. I have included the Excel and Power BI file.
 
 This Power BI project presents a sales dashboard with key insights into sales performance, revenue generation, and geographical sales distribution. The dashboard provides interactive visualizations to analyze trends and make data-driven decisions.
 
